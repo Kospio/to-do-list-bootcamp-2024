@@ -1,1 +1,2 @@
-# to-do-list-bootcamp-2024
+# node-express-ejs-basic-to-do-list
+example for my class on Node at Uni
