@@ -2,9 +2,9 @@
   "name": "to-do-list-bootcamp",
   "version": "1.0.0",
   "description": "Una aplicaci\u00f3n de lista de tareas",
-  "main": "app.js",
+  "main": "app-map.js",
   "scripts": {
-    "start": "app.js"
+    "start": "app-map.js"
   },
   "dependencies": {}
 }
