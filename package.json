@@ -1,10 +1,17 @@
 {
-  "name": "to-do-list-bootcamp",
+  "name": "todolist-v1",
   "version": "1.0.0",
-  "description": "Una aplicaci\u00f3n de lista de tareas",
+  "description": "",
   "main": "app-map.js",
   "scripts": {
-    "start": "app-map.js"
+    "start": "node app-map.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {}
+  "author": "Javi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
 }
